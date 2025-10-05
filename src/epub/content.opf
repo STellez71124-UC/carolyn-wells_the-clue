@@ -31,44 +31,55 @@
 		<meta property="file-as" refines="#title">Clue, The</meta>
 		<dc:subject id="subject-1">Fiction</dc:subject>
 		<dc:subject id="subject-2">Detective and mystery stories</dc:subject>
+		<dc:subject id="subject-3">Murder -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Murder -- Investigation -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85048050</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85037260</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008107179</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008107761</meta>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Mystery</meta>
+		<meta id="collection-1" property="belongs-to-collection">Fleming Stone</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
+		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<dc:description id="description">A young heiress is found dead under mysterious circumstances, and the discovery of a single but significant clue ends up revealing more than just the motive for her apparent suicide.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Madeleine Van Norman, the last living descendant of a prominent family in the American community of Mapleton, is ready to start a new chapter in her life by becoming the wife of Schuyler Carleton, a decent but far from wealthy young man. It appears that Madeleine will soon have everything she’s ever wanted—a husband she loves (even if he’s not very affectionate towards her), access to the inheritance her late uncle left her in his will, and most importantly, the opportunity to leave Mapleton behind and settle down abroad.&lt;/p&gt;
+			&lt;p&gt;The day before the wedding, a dinner held at the Van Norman mansion serves as a small prelude to the event, allowing Madeleine a moment to share with her friends and house guests before enacting her plan. As the night comes to an end and the guests take their leave, Madeleine expresses her wish to spend some time alone in the library to gather her thoughts and reflect on what she’s about to do, spending a short moment with Cicely Dupuy, a private secretary, to take note of a list of things to attend to before her wedding,.&lt;/p&gt;
+			&lt;p&gt;A premature end to what should have been a momentous occasion for Madeleine and Schuyler arrives when a gruesome discovery is made—an unexpected death has taken place, and the identity of the corpse is none other than the bride herself. A shroud of fear and suspicion falls over everyone in the household, as the eventual reveal of hidden interests and affections held by some of the wedding guests help to provide a possible motive for murder, but no one besides the late Madeleine Van Norman had the means to enter the room she was in or make use of the tool needed for such horrifying deed.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Clue&lt;/i&gt; served as the gateway for &lt;a href="https://standardebooks.org/ebooks/carolyn-wells"&gt;Carolyn Wells&lt;/a&gt; to adopt a new focus in her writing style early in her career and reinvent herself as an author in the mystery-solving genre after previously working on literature aimed exclusively towards children. The novel also serves as an introduction to the character of Fleming Stone, private investigator, who later become a major figure in Wells’ novels, being featured in over sixty different books and helping to solve the cases included in each of them.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/54869</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/bwb_P9-CTN-025</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/carolyn-wells_the-clue</meta>
 		<dc:creator id="author">Carolyn Wells</dc:creator>
 		<meta property="file-as" refines="#author">Wells, Carolyn</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:name.person.full-name" refines="#author">Carolyn Wells Houghton</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Carolyn_Wells</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50014865</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Frances Rogers</dc:contributor>
+		<meta property="file-as" refines="#artist">Rogers, Frances</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no00027193</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">Mardi Desjardins &amp;</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<dc:contributor id="transcriber-1">Mardi Desjardins</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Desjardins, Mardi</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-2">https://www.pgdp.net/</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Sergio Tellez</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Tellez Sergio</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
